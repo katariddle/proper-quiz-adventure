@@ -1,1 +1,0 @@
-# proper-quiz-adventure
